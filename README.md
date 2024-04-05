@@ -1,7 +1,7 @@
-### Ethan Walker 🫨
+### Ethan Walker
 
 >[!IMPORTANT]
->[https://ethan-walker.github.io/latin-connections](https://ethan-walker.github.io/latin-connections "🪅🥥🫚🌺🌾🪻🫛🫠🫕🪸🫗")
+>[Latin Connections](https://ethan-walker.github.io/latin-connections "🪅🥥🫚🌺🌾🪻🫛🫠🫕🪸🫗")
 
 <!--
 **ethan-walker/ethan-walker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
