@@ -1,7 +1,7 @@
 ### Ethan Walker
 
->[!IMPORTANT]
->[Latin Connections](https://ethan-walker.github.io/latin-connections "🪅🥥🫚🌺🌾🪻🫛🫠🫕🪸🫗")
+>[!CAUTION]
+>**<img src="https://github.com/user-attachments/assets/b73b004b-66be-430b-bea5-5ba37b128e82" height="30"> [Twit Website](https://ethan-walker.github.io/trump-insults/ "Trump Insults")**
 
 <!--
 **ethan-walker/ethan-walker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
